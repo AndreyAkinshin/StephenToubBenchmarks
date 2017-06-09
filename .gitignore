@@ -1,0 +1,11 @@
+# use glob syntax
+syntax: glob
+
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+_ReSharper*/
+.idea/
+.vs/
+BenchmarkDotNet.Artifacts/
